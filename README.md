@@ -17,10 +17,16 @@ ex)단계구분도
 <img width="483" alt="캡처" src="https://user-images.githubusercontent.com/104436260/165536443-cac3bc11-fb72-42d7-9084-b44fea896873.PNG">
 
 ex)radar chart
+레이더 차트를 활용한 최종 입지 점수 시각화
+<img width="487" alt="캡처" src="https://user-images.githubusercontent.com/104436260/165537844-d9452d5b-847d-4bd2-8037-dd35dca3506d.PNG">
 
 # -Cluster analysis
+4개의 군집분석 방법론을 활용하여 스마트 그린 쉘터 우선입지 구역 선정
 
 <img width="481" alt="캡처" src="https://user-images.githubusercontent.com/104436260/165537217-a27e42cf-e0e6-4290-8c39-60da5ccd01b8.PNG">
 
-# -
+# -Multiple regression
+독립변수와 종속변수를 기존의 변수들을 활용하여 파생하여
+다중회귀모형에 적용
+
    
