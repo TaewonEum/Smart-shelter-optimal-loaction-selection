@@ -11,11 +11,16 @@
 # -활용데이터
 <img width="485" alt="캡처" src="https://user-images.githubusercontent.com/104436260/165535394-3e00b898-7b00-4846-920c-8e9da0de3ae8.PNG">
 
-# -EDA 탐색적 자료분석
+# -EDA 탐색적 자료분석 및 시각화
 ex)단계구분도
 
 <img width="483" alt="캡처" src="https://user-images.githubusercontent.com/104436260/165536443-cac3bc11-fb72-42d7-9084-b44fea896873.PNG">
 
+ex)radar chart
+
 # -Cluster analysis
 
+<img width="481" alt="캡처" src="https://user-images.githubusercontent.com/104436260/165537217-a27e42cf-e0e6-4290-8c39-60da5ccd01b8.PNG">
+
+# -
    
