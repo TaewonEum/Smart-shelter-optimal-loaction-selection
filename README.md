@@ -33,4 +33,8 @@ ex)레이더 차트를 활용한 최종 입지 점수 시각화
 <img width="477" alt="캡처1" src="https://user-images.githubusercontent.com/104436260/165538908-9fc594b7-8fd4-4e1b-89de-dbbfc5dd96a7.PNG">
 <img width="485" alt="캡처2" src="https://user-images.githubusercontent.com/104436260/165538923-afd090d8-8d9e-417d-ab7a-6d4078107d44.PNG">
 <img width="489" alt="캡처4" src="https://user-images.githubusercontent.com/104436260/165538928-0a7cbb63-76f9-422e-ac98-65a098631f02.PNG">
+
+
+# -최종입지 시각화(Qgis)
+
    
