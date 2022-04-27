@@ -1,0 +1,31 @@
+#####로지스틱 회귀분석 코드
+미세=read.csv("2020미세.csv",header=T)
+교통=read.csv("구별교통량.csv",header=T)
+data1=merge(미세,교통,by=c("측정일자","측정소명"))
+녹지=read.csv("녹지2020.csv",header=T)
+head(녹지)
+quantile(녹지$녹지비율,0.33)
+quantile(녹지$녹지비율,0.66)
+quantile(녹지$녹지비율,0.99)
+data1$녹지범주화=ifelse(녹지$녹지<=0.01723787,0,ifelse(녹지$녹지<=0.0288314,1,2))
+data1$미세먼지이분=ifelse(data1$미세먼지>80,1,0)
+data1$교통량범주=ifelse(data1$교통량.평균<=27832.04,0,ifelse(data1$교통량.평균<=39384.44,1,2))
+data1$교통량합계범주=ifelse(data1$교통량.합계<=219585.4,0,ifelse(data1$교통량.평균<=389559.4,1,2))
+table(data1$교통량범주)
+head(data1)
+model1=glm(미세먼지이분~교통량범주+녹지범주
+                 ,family=binomial,data=data1)
+summary(model1)
+exp(-0.10223)
+exp(0.1987)
+
+###추정 회귀식 -0.08327+0.09238(교통량표준화)
+exp(0.09238)
+
+#ROC곡선
+library(pROC)
+install.packages('pROC')
+library(pROC)
+rocplot<-roc(미세먼지이분~fitted(model1),data=data1)
+plot.roc(rocplot,legacy.axes = TRUE)
+auc(rocplot)
