@@ -12,6 +12,10 @@
 <img width="485" alt="캡처" src="https://user-images.githubusercontent.com/104436260/165535394-3e00b898-7b00-4846-920c-8e9da0de3ae8.PNG">
 
 # -EDA 탐색적 자료분석
-단계구분도
-      
+ex)단계구분도
+
+<img width="483" alt="캡처" src="https://user-images.githubusercontent.com/104436260/165536443-cac3bc11-fb72-42d7-9084-b44fea896873.PNG">
+
+# -Cluster analysis
+
    
