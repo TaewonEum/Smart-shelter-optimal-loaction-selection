@@ -7,5 +7,8 @@
    
 # -분석도구
    Rstudio, Qgis, Python
+   
+# -활용데이터
+<img width="485" alt="캡처" src="https://user-images.githubusercontent.com/104436260/165535394-3e00b898-7b00-4846-920c-8e9da0de3ae8.PNG">
       
    
