@@ -29,4 +29,8 @@ ex)레이더 차트를 활용한 최종 입지 점수 시각화
 독립변수와 종속변수를 기존의 변수들을 활용하여 파생하여
 다중회귀모형에 적용
 
+<img width="481" alt="캡처" src="https://user-images.githubusercontent.com/104436260/165538891-b50af77a-e5f3-495f-8140-a754ec246971.PNG">
+<img width="477" alt="캡처1" src="https://user-images.githubusercontent.com/104436260/165538908-9fc594b7-8fd4-4e1b-89de-dbbfc5dd96a7.PNG">
+<img width="485" alt="캡처2" src="https://user-images.githubusercontent.com/104436260/165538923-afd090d8-8d9e-417d-ab7a-6d4078107d44.PNG">
+<img width="489" alt="캡처4" src="https://user-images.githubusercontent.com/104436260/165538928-0a7cbb63-76f9-422e-ac98-65a098631f02.PNG">
    
